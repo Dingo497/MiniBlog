@@ -1,10 +1,10 @@
 # MiniBlog
 
-  Mnou vytvoreny miniblog s pridaním príspevku úpravou a vymazaním: PHP, Mysql, HTML, CSS, Bootstrap
+  Mnou vytvoreny miniblog s pridaním príspevku úpravou a vymazaním: PHP(OOP), Mysql, HTML, CSS, Bootstrap   
+  
+  Projekt bol vytvorený keď som sa začal učiť OOP takže som ho tu aj použil. Je to veľmi **zbytočné** použiť OOP na takúto malinkú aplikáciu, ale ja som si to proste musel skúsiť :D 
 
-### Databaza 
-  Treba si ju vytvorit pretoze mam len spojenie na databazu vytvorenu taktiez si musite upravit v config.php upravit pripojenie na databazu na vase udaje
-#### Struktura databazi
+### Struktura databazi
 **nazov** : blog  
 **nazvy tabuliek** : conspiracy, covid, pc, stocks  
 **Struktura tabuliek** :  
